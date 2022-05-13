@@ -1,0 +1,100 @@
+newmtl Park_OBJ:wire_000000000
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.35 0.35 0.35
+Ns 32.00
+newmtl Park_OBJ:wire_115115115
+illum 4
+Kd 0.45 0.45 0.45
+Ka 0.45 0.45 0.45
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.35 0.35 0.35
+Ns 32.00
+newmtl Park_OBJ:wire_184155229
+illum 4
+Kd 0.72 0.61 0.90
+Ka 0.72 0.61 0.90
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.35 0.35 0.35
+Ns 32.00
+newmtl Park_OBJ:wire_225198087
+illum 4
+Kd 0.88 0.78 0.34
+Ka 0.88 0.78 0.34
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.35 0.35 0.35
+Ns 32.00
+newmtl dino:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Frill_Diffuse_2048x2048.jpg
+Ni 1.00
+newmtl dino:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Diffuse_4096x4096.jpg
+Ni 1.00
+newmtl dispenser2:lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd png-clipart-blackboard-texture-black-background-black-textured.png
+Ni 1.00
+newmtl dispenser2:lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd png-clipart-blackboard-texture-black-background-black-textured.png
+Ni 1.00
+newmtl person:HandsShader1SG2
+illum 4
+Kd 0.96 0.96 0.96
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.14 0.14 0.14
+Ns 0.06
+newmtl person:HandsShader2SG
+illum 4
+Kd 0.19 0.54 0.45
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.14 0.14 0.14
+Ns 0.06
+newmtl person:blinn5SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd halat.jpg
+Ni 1.00
+Ks 0.14 0.14 0.14
+Ns 0.06
+newmtl person:blinn9SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.14 0.14 0.14
+Ns 0.06
+newmtl person:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd face_zak.jpg
+Ni 1.00

@@ -1,0 +1,15 @@
+newmtl Reflection_Chrome1
+illum 4
+Kd 0.49 0.49 0.49
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.81 0.81 0.81
+Ns 40.00
+newmtl lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd png-clipart-blackboard-texture-black-background-black-textured.png
+Ni 1.00

@@ -1,0 +1,21 @@
+newmtl dino:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Frill_Diffuse_2048x2048.jpg
+Ni 1.00
+newmtl dino:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Diffuse_4096x4096.jpg
+Ni 1.00
+newmtl parqueFinal:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Luxury_House________D.png
+Ni 1.00
